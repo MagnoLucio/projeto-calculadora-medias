@@ -18,7 +18,3 @@ Ele faz parte do meu portfólio de estudos e demonstra como estruturar um projet
 - **Python** – lógica, funções e execução de scripts.  
 - **SQL** – criação de tabelas, inserção e consulta de dados.  
 - **Git/GitHub** – versionamento e documentação do projeto.
-
----
-
-## Estrutura do Projeto
